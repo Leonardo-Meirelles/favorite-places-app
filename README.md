@@ -1,4 +1,4 @@
-# Favorite Meals App
+# Favorite Places App
 
 Project for testing and training native android functionalities with Flutter and Dart, Flutter Riverpod, Google Maps and geo-location API, camera and pictures, and SQflite for persisting data on device. 
 
